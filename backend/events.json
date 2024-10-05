@@ -1,0 +1,18 @@
+{
+  "events": [
+    {
+      "title": "evevtns2",
+      "date": "2024-09-30",
+      "image": "https://th.bing.com/th/id/OIP.4P7C26cFKRYegV7O0NRT4QHaE7?rs=1&pid=ImgDetMain",
+      "description": "sdadadas",
+      "id": "91a0bdfc-21ff-48ce-90c3-77f4cbbf0f81"
+    },
+    {
+      "date": "2024-09-25",
+      "title": "image",
+      "image": "https://th.bing.com/th/id/OIP.T2w1wh1qRepNacvZE44JNwHaEK?rs=1&pid=ImgDetMain",
+      "description": "image",
+      "id": "87951ca7-689e-4a4f-aa78-7f521a6dbb39"
+    }
+  ]
+}

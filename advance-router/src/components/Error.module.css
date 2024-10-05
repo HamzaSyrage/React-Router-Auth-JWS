@@ -1,0 +1,29 @@
+.error {
+  position: absolute;
+  text-align: center;
+  background-color: brown;
+  padding: 50px;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 100%;
+  box-shadow: 0px 10px 20px brown, 0px -10px 20px brown;
+}
+.error h1 {
+  margin-top: 0;
+}
+.error span {
+  color: black;
+  font-weight: bold;
+}
+.error a {
+  color: #fbd997;
+  text-decoration: none;
+  background-color: #00000099;
+  padding: 12px 24px;
+  font-weight: bold;
+}
+.error a:hover {
+  color: #fab833;
+  background-color: #000000cc;
+}
